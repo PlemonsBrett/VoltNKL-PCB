@@ -1,4 +1,4 @@
 (fp_lib_table
-  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "/home/brettplemons/Documents/VoltNKL-PCB/hardware/MX_Alps_Hybrid/MX_Alps_Hybrid.pretty")(options "")(descr ""))
-  (lib (name "random_keyboard_parts")(type "KiCad")(uri "/home/brettplemons/Documents/VoltNKL-PCB/hardware/random-keyboard-parts.pretty/Schematic Library")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "D:/Users/Brett/Documents/Projects/VoltNKL-PCB/hardware/MX_Alps_Hybrid/MX_Alps_Hybrid.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "D:/Users/Brett/Documents/Projects/VoltNKL-PCB/hardware/random-keyboard-parts.pretty")(options "")(descr ""))
 )
