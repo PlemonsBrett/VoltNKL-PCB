@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "VoltNKL.kicad_pro",
+    "filename": "MacroPad.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -412,7 +412,7 @@
   },
   "sheets": [
     [
-      "944011a7-5e2d-4456-87cc-008388926582",
+      "82bcf938-3004-4a19-9478-98f82efd0647",
       ""
     ]
   ],
