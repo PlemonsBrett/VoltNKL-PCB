@@ -23,3 +23,13 @@ https://www.st.com/resource/en/datasheet/cd00237391.pdf
 
 
 Plate Generator: http://www.keyboardcad.com/
+
+Resources: https://keebfolio.netlify.app/tutorials
+
+PCB GUIDE: https://wiki.ai03.com/books/pcb-design/page/pcb-guide-part-1---preparations
+
+Plate Generator: https://kbplate.ai03.com/
+
+Keyboard Firmware Generator: https://kbfirmware.com/
+
+Design Tools: https://keyboard-design.com/tools.html
