@@ -20,3 +20,6 @@ MCU used in MacroPad: http://ww1.microchip.com/downloads/en/devicedoc/atmel-7766
 MCU used in Keyboard https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f0-series/stm32f0x2.html#tools-software
 
 https://www.st.com/resource/en/datasheet/cd00237391.pdf
+
+
+Plate Generator: http://www.keyboardcad.com/
