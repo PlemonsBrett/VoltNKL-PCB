@@ -3,7 +3,7 @@
 This repository contains all information around the Volt NKL (Nav Keyless) Keyboard.
 
 Final Layout:
-![VoltNKLv1](volt-nkl-v1.jpg)
+![VoltNKLv1](volt-nkl-v1.png)
 
 ---
 
